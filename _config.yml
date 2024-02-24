@@ -1,6 +1,9 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: <p align="center"> Amol Gothe </p>
+logo: /assets/img/Amol_Gothe_Picture.png
+description:
+  <p align="center">
+  <a href="https://in.linkedin.com/in/amolgothe">LinkedIn</a> |
+  <a href="https://github.com/AmolGothe">GitHub</a>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
